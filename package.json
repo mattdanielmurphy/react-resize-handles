@@ -66,7 +66,7 @@
     "forge": {
       "packagerConfig": {
         "name": "RulerResizable",
-        "executableName": "ruler-resizable",
+        "executableName": "RulerResizable",
         "icon": "assets/icon",
         "extraResource": [
           "assets"
