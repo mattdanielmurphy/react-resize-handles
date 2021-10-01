@@ -65,8 +65,8 @@
   "config": {
     "forge": {
       "packagerConfig": {
-        "name": "Electron starter",
-        "executableName": "electron-starter",
+        "name": "RulerResizable",
+        "executableName": "ruler-resizable",
         "icon": "assets/icon",
         "extraResource": [
           "assets"
